@@ -7,7 +7,7 @@ During these years I've worked on several projects with other students, mostly a
 If you are interested, let's go check my github organizations and repos:
 - [DDDavides](https://github.com/DDDavides)
 - [ADDMD](https://github.com/ADDMD)
-- [LeafTeamMates](https://github.com/LeafTeamMates)
+- [GatMol](https://github.com/GatMol)
 
 I've always been attracted by videogaming and recently I've started learning technologies for game developing. In fact, my bachelor thesis was about Remeshing using CGAL (a C++ library) and, after graduating, I've followed a Computer Graphic course. In the last few months I've started watching some 3D modeling tutorials (Blender).
 
