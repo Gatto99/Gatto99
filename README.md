@@ -9,13 +9,14 @@ If you are interested, let's go check my github organizations and repos:
 - [ADDMD](https://github.com/ADDMD)
 - [GatMol](https://github.com/GatMol)
 
-I've always been attracted by videogaming and recently I've started learning technologies for game developing. In fact, my bachelor thesis was about Remeshing using CGAL (a C++ library) and, after graduating, I've followed a Computer Graphic course. In the last few months I've started watching some 3D modeling tutorials (Blender).
+I've always been attracted by videogaming and recently I've started learning technologies for game developing. In fact, my bachelor thesis was about Remeshing using CGAL (a C++ library) and, after graduating, I've followed a Computer Graphic course. In the last few months I am working on my master thesis about writing a runtime fracture mechanism in Unreal Engine 5.
 
-<h1 align="center">My Stats</h1>
+<!-- <h1 align="center">My Stats</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gatto99&count_private=true&show_icons=true&theme=github_dark" />
 </a>
+-->
 
 <!-- Print languages used in personal Github
   <a href="https://github.com/anuraghazra/github-readme-stats">
