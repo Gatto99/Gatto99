@@ -1,6 +1,6 @@
 <img align="left" src="./mii3.png" width="270" height="270"/>
 
-Hi I'm Davide Gattini, a student at Università degli Studi Roma Tre since 2018. In 2021 I got a bachelor degree in Computer Science and I'm currently studying to get master degree in *Sistemi informatici Complessi*. 
+Hi I'm Davide Gattini. I'm working at *Ringmaster S.r.l* as a **Frontend Developer**. I've started working since May 2024 after I got a bachelor (2021) and master (2023) degree in Computer Science at Università degli Studi Roma Tre. 
 
 During these years I've worked on several projects with other students, mostly about Computer Graphics, Data Engineering, Mobile Computing, ML, DL and so on... 
 
@@ -9,7 +9,7 @@ If you are interested, let's go check my github organizations and repos:
 - [ADDMD](https://github.com/ADDMD)
 - [GatMol](https://github.com/GatMol)
 
-I've always been attracted by videogaming and recently I've started learning technologies for game developing. In fact, my bachelor thesis was about Remeshing using CGAL (a C++ library) and, after graduating, I've followed a Computer Graphic course. In the last few months I am working on my master thesis about writing a runtime fracture mechanism in Unreal Engine 5.
+I've always been attracted by videogaming and recently I've started learning technologies for game developing. In fact, my bachelor thesis was about Remeshing using CGAL (a C++ library) and, my master thesis instead was about creating a plugin for Unreal Engine 5 about a Realtime Fracture Mechanism.
 
 <!-- <h1 align="center">My Stats</h1>
 
